@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Эмнэлгийн холбоос
+          Эмнэлгийн холбоос 
         </a>
       </header>
     </div>
